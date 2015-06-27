@@ -558,7 +558,7 @@
 			}
 
 			.image.captioned h3 {
-				background-color: #fff;
+				: #fff;
 				box-shadow: 0px 0.0375em 0.125em 0px rgba(0, 0, 0, 0.15);
 				display: block;
 				padding: 2em 1em;
@@ -1054,12 +1054,12 @@
 	#banner {
 		padding: 16em 0 13em 0;
 		background-attachment: fixed;
-		/* background-color: #3399FF; */
-		background-image: url("images/overlay.png"), url("../images/drewpandaone.jpg");
+		/*background-image: url("images/overlay.png"), url("../images/drewpandaone.jpg"); */
 		background-position: center top;
 		background-size: cover;
 		line-height: 1.75;
 		text-align: center;
+		background-color: #CF4A21;
 	}
 
 		#banner :last-child {
@@ -1075,7 +1075,7 @@
 		}
 
 		#banner p {
-			color: #aaa;
+			color: #ffffff;
 			font-size: 1.5em;
 			margin-bottom: 1.75em;
 			text-transform: uppercase;
@@ -1098,13 +1098,12 @@
 	}
 
 		.wrapper.style2 {
-			background-color: #f6f6f6;
+			: DE5B23;
 		}
 
 		.wrapper.style3 {
 			background-attachment: fixed;
-			/* background-color: #3399FF; */
-			background-image: url("images/overlay.png"), url("../images/drewpandaone.jpg");
+			/*background-image: url("images/overlay.png"), url("../images/drewpandaone.jpg");*/
 			background-position: center center;
 			background-size: cover;
 		}
