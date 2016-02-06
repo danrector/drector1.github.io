@@ -1059,7 +1059,8 @@
 		background-size: cover;
 		line-height: 1.75;
 		text-align: center;
-		background-color: #CF4A21;
+		background-color: white;
+		color: #CF4A21;
 	}
 
 		#banner :last-child {
@@ -1067,7 +1068,7 @@
 		}
 
 		#banner h2 {
-			color: #ffffff;
+			color: #CF4A21;
 			display: inline-block;
 			font-size: 3.5em;
 			line-height: 1.35;
@@ -1075,7 +1076,7 @@
 		}
 
 		#banner p {
-			color: #ffffff;
+			color: #CF4A21;
 			font-size: 1.5em;
 			margin-bottom: 1.75em;
 			text-transform: uppercase;
@@ -1124,8 +1125,8 @@
 
 	#footer {
 		padding: 8em 0 6em 0;
-		background: #f6f6f6;
-		color: #aaa;
+		background: #CF4A21;
+		color: #ffffff;
 		text-align: center;
 	}
 
@@ -1133,7 +1134,7 @@
 			-moz-transition: color 0.2s ease-in-out;
 			-webkit-transition: color 0.2s ease-in-out;
 			-o-transition: color 0.2s ease-in-out;
-			-ms-transition: color 0.2s ease-in-out;
+			-ms-transition: color 0.2s ease-in-out;#aaa
 			transition: color 0.2s ease-in-out;
 			color: #aaa;
 			text-decoration: none;
